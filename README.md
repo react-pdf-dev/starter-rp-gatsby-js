@@ -19,8 +19,8 @@ Welcome to the React PDF Starter Toolkit! This repository provides a comprehensi
 1. **Clone the Repository**: If you haven't already, clone the repository and navigate into the project directory.
 
    ```bash
-   git clone https://github.com/pdf-viewer-react/starter-rpv-gatsby-js.git
-   cd starter-rpv-gatsby-js
+   git clone https://github.com/pdf-viewer-react/starter-rp-gatsby-js.git
+   cd starter-rp-gatsby-js
    ```
 
 2. **Install Dependencies**: Install the necessary dependencies using npm, yarn, pnpm or bun.
